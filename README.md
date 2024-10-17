@@ -28,6 +28,7 @@ This repository is a collection of coding exercises and problem statements. The 
 
 ### 2. Programs using Loops:
 - **Factorial without using a function**
+- **Square of N**
 - **Calculate x to the power y**
 - **Multiplication table**
 - **Sum of natural numbers**
