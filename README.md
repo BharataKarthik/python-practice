@@ -27,26 +27,26 @@ This repository is a collection of coding exercises and problem statements. The 
 - **Quadratic equation**: Solve a quadratic equation based on user input.
 
 ### 2. Programs using Loops:
-- **Factorial without using a function**
-- **Square of N**
-- **Calculate x to the power y**
-- **Multiplication table**
-- **Sum of natural numbers**
-- **Generate a Fibonacci sequence starting from any two specified numbers.**
-- **Convert a string from upper case to lower case**
-- **Convert a string from lower case to upper case**
-- **Print Pascal's Triangle up to a given number of rows**
-- **Calculate the Least Common Multiple (LCM) and Greatest Common Divisor (GCD) of two numbers**
-- **Find all prime numbers between two specified ranges.**
-- **Determine the factors of a given number**
-- **Identify the prime factors of a given number.**
-- **Convert a binary number to its decimal and octal representations.**
-- **Count the number of digits in an integer.**
-- **Reverse the digits of a given number.**
-- **Check if a given number is a palindrome**
-- **Calculate the sum of the digits of a number**
-- **Check if a number is an Armstrong number**
-- **Write a program that sends a WhatsApp message using the pywhatkit package, specifying the phone number, message, and time.**
+- **Factorial without using a function**: Write a program to calculate the factorial of a number without using a function.
+- **Square of N**: Create a program to calculate the square of a given number.
+- **Calculate x to the power y**: Implement a program that calculates \(x^y\) for given values of \(x\) and \(y\).
+- **Multiplication Table**: Develop a program to print the multiplication table of a specified number.
+- **Sum of Natural Numbers**: Write a program to calculate the sum of natural numbers up to a given number.
+- **Generate a Fibonacci Sequence**: Create a program to generate a Fibonacci sequence starting from any two specified numbers.
+- **Convert Upper Case to Lower Case**: Write a program that converts a string from upper case to lower case.
+- **Convert Lower Case to Upper Case**: Develop a program that converts a string from lower case to upper case.
+- **Print Pascal's Triangle**: Implement a program to print Pascal's Triangle up to a given number of rows.
+- **Calculate LCM and GCD**: Write a program to calculate the Least Common Multiple (LCM) and Greatest Common Divisor (GCD) of two numbers.
+- **Find Prime Numbers Between Ranges**: Create a program to find all prime numbers between two specified ranges.
+- **Determine Factors of a Number**: Write a program to determine the factors of a given number.
+- **Identify Prime Factors**: Develop a program to identify the prime factors of a given number.
+- **Convert Binary to Decimal and Octal**: Implement a program that converts a binary number to its decimal and octal representations.
+- **Count Digits in an Integer**: Write a program to count the number of digits in an integer.
+- **Reverse Digits of a Number**: Create a program that reverses the digits of a given number.
+- **Check Palindrome**: Write a program to check if a given number is a palindrome.
+- **Digit Summation**: Develop a program to calculate the sum of the digits of a number.
+- **Check Armstrong Number**: Implement a program that checks if a number is an Armstrong number.
+- **Send WhatsApp Message**: Write a program that sends a WhatsApp message using the `pywhatkit` package, specifying the phone number, message, and time.
 
 ## How to Use
 
