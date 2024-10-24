@@ -2,17 +2,17 @@
 
 Welcome to my Python practice repository! This repository contains various Python programs aimed at improving logical problem-solving skills. These programs cover a wide range of topics, from basic functions to more advanced concepts like recursion, file handling, and string manipulation.
 
-## 📘 About the Repository
+## About the Repository
 
 This repository is a collection of coding exercises and problem statements. The aim is to strengthen Python programming knowledge by solving diverse challenges. Each problem helps in practicing essential concepts while building the foundation for more complex tasks.
 
-## 🚀 Currently Learning
+## Currently Learning
 - Python basics and intermediate topics
 - Data structures and algorithms
 - Recursion and file handling
 - Logical problem solving using arrays, loops, and strings
 
-## 📂 Programs List
+## Programs List
 
 ### 1. Simple Programs:
 - **Find area of a rectangle**: Calculate the area of a rectangle based on user-provided length and breadth.
