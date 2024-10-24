@@ -32,7 +32,21 @@ This repository is a collection of coding exercises and problem statements. The 
 - **Calculate x to the power y**
 - **Multiplication table**
 - **Sum of natural numbers**
-- ...
+- **Generate a Fibonacci sequence starting from any two specified numbers.**
+- **Convert a string from upper case to lower case**
+- **Convert a string from lower case to upper case**
+- **Print Pascal's Triangle up to a given number of rows**
+- **Calculate the Least Common Multiple (LCM) and Greatest Common Divisor (GCD) of two numbers**
+- **Find all prime numbers between two specified ranges.**
+- **Determine the factors of a given number**
+- **Identify the prime factors of a given number.**
+- **Convert a binary number to its decimal and octal representations.**
+- **Count the number of digits in an integer.**
+- **Reverse the digits of a given number.**
+- **Check if a given number is a palindrome**
+- **Calculate the sum of the digits of a number**
+- **Check if a number is an Armstrong number**
+- **Write a program that sends a WhatsApp message using the pywhatkit package, specifying the phone number, message, and time.**
 
 ## How to Use
 
